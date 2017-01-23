@@ -1,0 +1,105 @@
+body{
+	
+	background-image: url(img/33.png);
+	background-size: cover;
+}
+
+#test {
+	border: 5px solid #2A7B83;
+	transition: 1s all;
+	width: 300px;
+	border-radius: 300px;
+	margin-top: 100px;
+	margin-left: 100px;
+	height: 250px;	
+	border: none;
+	
+	}
+	
+#test1 {
+	border: 5px solid #2A7B83;
+	transition: 1s all;
+	width:  300px;
+	border-radius: 300px;
+	margin-top: 100px;
+	margin-left: 100px;
+	height: 250px;	
+	border: none;
+	
+	
+}	
+#test2 {
+	border: 5px solid #2A7B83;
+	transition: 1s all;
+	width: 300px;
+	border-radius: 300px;
+	margin-top: 100px;
+	margin-left: 100px;
+	height: 250px;	
+	border: none;
+
+	}
+
+	#test3 {
+	border: 5px solid #2A7B83;
+	transition: 1s all;
+	width: 300px;
+	border-radius: 300px;
+	margin-top: 100px;
+	margin-left: 300px;
+	height: 250px;	
+	border: none;
+	}
+#test4 {
+	border: 5px solid #2A7B83;
+	transition: 1s all;
+	width: 300px;
+	border-radius: 300px;
+	margin-top: 100px;
+	margin-left: 120px;
+	height: 250px;	
+border: none;
+	}	
+	
+	
+	#test:hover{
+		-webkit-transform: scale(1.2);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
+		
+	}
+	#test1:hover{
+		-webkit-transform: scale(1.2);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
+		
+	}
+	#test2:hover{
+		-webkit-transform: scale(1.2);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
+		
+	}
+	#test3:hover{
+		-webkit-transform: scale(1.2);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
+		
+	}
+	#test4:hover{
+		-webkit-transform: scale(1.2);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
+		
+	}
+	
+	caption{
+		font-size: 50px;
+		
+	}
+	table{
+		
+		height: 600px;
+		margin-left: 280px;
+	}
+
